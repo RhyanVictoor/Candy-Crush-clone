@@ -12,7 +12,7 @@ Este é um clone do famoso jogo Candy Crush desenvolvida com HTML, CSS e JavaScr
 
 ## Pré-requisitos
 
-Não há pré-requisitos específicos para utilizar este gerador de senha.
+Não há pré-requisitos específicos para utilizar.
 
 ## Contribuindo
 
